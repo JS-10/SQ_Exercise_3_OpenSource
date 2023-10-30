@@ -5,6 +5,7 @@ This project includes a calculation that does not have any purpose and is not re
 ## Requirement
 * You must use an IDE that supports Java (e.g. IntelliJ) in order to run this code.
 ## Installation
+* Pull this project on your IDE.
 * *(Recommended)* Select Oracle OpenJDK version 21 as the JDK for this project. Using different versions might cause errors when trying to run the code. If you are using IntelliJ, follow the steps on [this link](https://www.jetbrains.com/help/idea/sdk.html#set-up-jdk) to select the recommended JDK version.
 * If you are using IntelliJ as your IDE and you want to run the JUnit tests in DoSomethingTest.java, you might have to add JUnit to this project.
   1. Go to **File > Project Structure > Project Settings > Modules**
