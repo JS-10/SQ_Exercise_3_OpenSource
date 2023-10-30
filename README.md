@@ -1,4 +1,4 @@
-# SQ_Exercise_3_OpenSource
+# Software Quality - Exercise 3 - OpenSource
 This project is intended for exercise.
 ## Purpose
 This project includes a calculation that does not have any purpose and is not related to anything. The files are based on previous exercises, hence the different nummeration in the files.
