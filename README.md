@@ -12,7 +12,7 @@ This project includes a calculation that does not have any purpose and is not re
   2. Click on **+ > Library > From Maven...**
   3. Search for "junit:junit:4.11" and click on "OK".
 ## Usage
-* To use this software, simply open Main.java in your IDE, change the parameters if needed and run this code.
+* To use this software, simply open Output.java in your IDE, change the parameters if needed and run this code.
 * If you want to run the JUnit tests, open DoSomethingTest.java in your IDE and run this code.
 ## License
 This project is available under the [MIT License](LICENSE).
